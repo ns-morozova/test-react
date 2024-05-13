@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ns-morozova/test-react/static/css/main.90866cb2.css",
+    "main.js": "/ns-morozova/test-react/static/js/main.8988916c.js",
+    "static/js/453.9c44b721.chunk.js": "/ns-morozova/test-react/static/js/453.9c44b721.chunk.js",
+    "index.html": "/ns-morozova/test-react/index.html",
+    "main.90866cb2.css.map": "/ns-morozova/test-react/static/css/main.90866cb2.css.map",
+    "main.8988916c.js.map": "/ns-morozova/test-react/static/js/main.8988916c.js.map",
+    "453.9c44b721.chunk.js.map": "/ns-morozova/test-react/static/js/453.9c44b721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90866cb2.css",
+    "static/js/main.8988916c.js"
+  ]
+}
