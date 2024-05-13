@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ns-morozova/test-react.git"
+  },
+  "author": "Natasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ns-morozova/test-react/issues"
+  },
+  "homepage": "https://github.com/ns-morozova/test-react#readme"
 }
